@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/Samsonasumu/React-Personal-Portfolio-App/assets/99386103/a1cf2992-cab9-4d82-9923-ca5d54e0a5c8)
+
+npm list
+myapp@0.1.0 C:\Users\sam\Desktop\MY-CLONE\React_Portfolio_Website_Sam\myapp
+├── @emailjs/browser@4.3.3
+├── @testing-library/jest-dom@5.17.0
+├── @testing-library/react@13.4.0
+├── @testing-library/user-event@13.5.0
+├── material-icons@1.13.12
+├── react-dom@18.3.1
+├── react-icons@5.2.1
+├── react-router-dom@6.23.1
+├── react-scripts@5.0.1
+├── react-typical@0.1.3
+├── react@18.3.1
+└── web-vitals@2.1.4
+
 ## Available Scripts
 
 In the project directory, you can run:
