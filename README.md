@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Deployed link
+https://samson-asumu-portfolio-app.netlify.app/
+
 ![image](https://github.com/Samsonasumu/React-Personal-Portfolio-App/assets/99386103/a1cf2992-cab9-4d82-9923-ca5d54e0a5c8)
 
 npm list
